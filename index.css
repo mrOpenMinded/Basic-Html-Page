@@ -1,0 +1,52 @@
+.container p{
+    margin-top: 0;
+}
+.container h1{
+    margin-bottom: 0;
+    margin-top: 3px;
+}
+.coding1{
+    /* font-size: 17px;
+    color: rgb(161, 60, 60); */
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    color: #660000;
+    /* font-style: normal; */
+    /* margin-bottom: 0; */
+}
+#coding1{
+        /* font-size: 17px;
+        color: rgb(161, 60, 60); */
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        color: black;
+        font-weight: bold;
+        /* font-style: normal; */
+        /* margin-bottom: 0; */
+}
+.code-words{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    color: #660000;
+    font-style: normal;
+}
+.nrec1{
+    margin-top: 0;
+}
+h3{
+    margin-top: 0;
+}
+.chngClr{
+    color: blue;
+}
+.colClr{
+    background-color: 
+    rgb(208, 204, 204);
+}
+#boldCod{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    color:black;
+    font-style: normal;
+    /* margin-bottom: 0; */
+    font-weight: bolder;
+}
+pre{
+    white-space: pre;
+}
